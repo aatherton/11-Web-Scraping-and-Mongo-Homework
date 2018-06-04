@@ -1,0 +1,14 @@
+{
+    "google": "AIzaSyCwKFp21YCJlBKXqZ6jlytjgCArlpaCKr8",
+	"twitter": {
+		"consumer": {
+			"key": "OfeZ90rKSjH088jTMNxpJAx7L",
+			"secret": "dbFTZM9y6wTAME4beHZakw8l4cM46xGoBbaFF1gOvvXf7gclYC"
+		},
+		"token": "955960946387800066-0dNJcOgv9WikXACSGggWQYuvzZ2KsGq",
+		"secret": "hVTEf0awhjCfAVeSLd2WQlwJU8bHgQpQ62tkiiBDJcoPA"
+	},
+	"weathermap": "49429005520da08d4ba9f720289d1961",
+	"I_am_root": "N3ph3l3t",
+	"quandl": "22FWMb3yxKP8StRKyuCu"
+}
